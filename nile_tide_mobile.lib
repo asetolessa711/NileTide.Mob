@@ -1,0 +1,27 @@
+nile_tide_mobile/
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   ├── news_screen.dart
+│   │   ├── social_media_screen.dart
+│   │   ├── search_screen.dart
+│   │   ├── submission_screen.dart
+│   │   ├── comments_screen.dart
+│   ├── services/
+│   │   ├── content_service.dart
+│   │   ├── social_media_service.dart
+│   │   ├── analytics_service.dart
+│   │   ├── notifications_service.dart
+│   ├── models/
+│   │   ├── content_item.dart
+│   │   ├── social_media_item.dart
+│   ├── widgets/
+│   │   ├── comment_widget.dart
+│   │   ├── vote_widget.dart
+│   │   ├── ad_widget.dart
+│   └── utils/
+│       ├── scheduler.dart
+├── android/
+├── ios/
+├── pubspec.yaml
